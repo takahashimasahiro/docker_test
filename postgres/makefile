@@ -8,6 +8,7 @@ up:
 
 run:
 	docker-compose run postgres
+	# docker-compose run postgres96
 
 stop:
 	docker stop postgres96
